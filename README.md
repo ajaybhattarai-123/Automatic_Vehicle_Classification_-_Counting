@@ -24,6 +24,19 @@ Perfect for traffic monitoring, parking management, and intelligent transportati
 
 ---
 
+## 📚 Documentation
+
+For detailed theory, technical documentation, and comprehensive explanation of the code implementation, please refer to:
+
+**[📄 Documentation.pdf](./Documentation.pdf)** - Complete guide covering:
+- YOLOv8 architecture and theory
+- Object tracking algorithms (ByteTrack)
+- Implementation details and code explanation
+- Mathematical foundations
+- Advanced configuration options
+
+---
+
 ## 🎬 Demo
 
 Watch the system in action! The video demonstrates real-time vehicle detection, tracking, and counting:
@@ -152,7 +165,7 @@ yolov8-vehicle-counting/
 ├── YOLO_PROJECT/
 │   └── Incoming_Outgoing.py    # Core detection, tracking & counting logic
 │
-├── final_video.mp4              # Demo video of the system in action
+├── Documentation.pdf            # Detailed theory and technical documentation
 ├── requirements.txt             # Python dependencies
 ├── README.md                    # Project documentation
 └── yolov8l.pt                   # YOLOv8 model weights (auto-downloaded)
