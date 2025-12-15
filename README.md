@@ -26,11 +26,17 @@ Perfect for traffic monitoring, parking management, and intelligent transportati
 
 ## 🎬 Demo
 
-Watch the system in action! The video below demonstrates real-time vehicle detection, tracking, and counting:
+Watch the system in action! The video demonstrates real-time vehicle detection, tracking, and counting:
 
-https://github.com/user-attachments/assets/final_video.mp4
+**[📹 Click Here to Watch Demo Video](https://youtu.be/d_X8XPncZn8)**
 
-> **Note**: You can also find the demo video in the repository: `final_video.mp4`
+<div align="center">
+  
+[![YOLOv8 Vehicle Counting Demo](https://img.youtube.com/vi/d_X8XPncZn8/0.jpg)](https://youtu.be/d_X8XPncZn8)
+
+*Click the thumbnail above to watch the demo video*
+
+</div>
 
 ---
 
